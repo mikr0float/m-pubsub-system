@@ -1,0 +1,5 @@
+grpc_port: 50051
+shutdown_timeout: 15s
+log_level: debug
+max_subscribers: 1000
+message_queue_size: 200
