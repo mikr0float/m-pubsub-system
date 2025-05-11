@@ -2,10 +2,11 @@ package subpub_test
 
 import (
 	"context"
-	"github.com/mikr0float/m-pubsub-system/subpub"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/mikr0float/m-pubsub-system/subpub"
 )
 
 // НЕ ЗАБЫТЬ ПОМЕНЯТЬ ИМПОРТ!!!!!!!!!!!!!!!!!
