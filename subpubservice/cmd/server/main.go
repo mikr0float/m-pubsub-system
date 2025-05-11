@@ -4,8 +4,8 @@ import (
 	"log/slog"
 	"os"
 
-	"projectGo2/vkAlg/subpubservice/config"
-	"projectGo2/vkAlg/subpubservice/internal/server"
+	"github.com/mikr0float/m-pubsub-system/subpubservice/config"
+	"github.com/mikr0float/m-pubsub-system/subpubservice/internal/server"
 )
 
 func main() {
