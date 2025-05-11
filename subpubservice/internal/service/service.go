@@ -5,8 +5,8 @@ import (
 	//	"errors"
 	"log/slog"
 
-	"projectGo2/vkAlg/app/subpub"
-	pb "projectGo2/vkAlg/subpubservice/proto"
+	"github.com/mikr0float/m-pubsub-system/subpub"
+	pb "github.com/mikr0float/m-pubsub-system/subpubservice/proto"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
