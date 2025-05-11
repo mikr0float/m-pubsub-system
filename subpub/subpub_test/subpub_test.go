@@ -2,7 +2,7 @@ package subpub_test
 
 import (
 	"context"
-	"projectGo2/vkAlg/app/subpub"
+	"github.com/mikr0float/m-pubsub-system/subpub"
 	"sync"
 	"testing"
 	"time"
