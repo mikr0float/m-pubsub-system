@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"projectGo2/vkAlg/app/subpub"
-	"projectGo2/vkAlg/subpubservice/config"
-	"projectGo2/vkAlg/subpubservice/internal/service"
-	pb "projectGo2/vkAlg/subpubservice/proto"
+	"github.com/mikr0float/m-pubsub-system/subpub"
+	"github.com/mikr0float/m-pubsub-system/subpubservice/config"
+	"github.com/mikr0float/m-pubsub-system/subpubservice/internal/service"
+	pb "github.com/mikr0float/m-pubsub-system/subpubservice/proto"
 
 	"google.golang.org/grpc"
 )
